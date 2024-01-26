@@ -1,2 +1,4 @@
 # SEBasics
-SE Basics Workshop
+Anurag Kulkarni
+Hello GitHub!
+
